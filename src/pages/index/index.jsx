@@ -8,7 +8,7 @@ export default class Index extends Component {
     posts: [
       {
         title: '泰罗奥特曼',
-        content: '泰罗是奥特之父和奥特之母唯一的亲生儿子。',
+        content: '泰罗是奥特之父和奥特之母唯一的亲生儿子。555',
       },
     ],
     formTitle: '',
