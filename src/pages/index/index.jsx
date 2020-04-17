@@ -7,7 +7,7 @@ export default class Index extends Component {
   state = {
     posts: [
       {
-        title: '泰罗奥特曼',
+        title: '泰罗奥特曼111',
         content: '泰罗是奥特之父和奥特之母唯一的亲生儿子。',
       },
     ],
